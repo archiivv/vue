@@ -20,7 +20,7 @@ import HelloWorld from './components/HelloWorld.vue'
 }
 button {
     background: none;
-    border: solid 5px;
+    border: solid 2px;
     border-radius: 2em;
     padding: 0.75em 2em;
     color: #44bb84
