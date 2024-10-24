@@ -25,4 +25,7 @@ button {
     padding: 0.75em 2em;
     color: #44bb84
 }
+a {
+  color: #44bb84
+}
 </style>
