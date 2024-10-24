@@ -23,6 +23,6 @@ button {
     border: solid 5px;
     border-radius: 2em;
     padding: 0.75em 2em;
-    color: rgb(232, 244, 255);
+    color: #44bb84
 }
 </style>
