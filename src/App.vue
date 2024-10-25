@@ -14,7 +14,7 @@ import HelloWorld from './components/HelloWorld.vue'
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #d3c1af; background-color: #2c3e50;
-  margin-top: 60px; height: 100%;
+  height: 100%;
 }
 button {
     background: none;
