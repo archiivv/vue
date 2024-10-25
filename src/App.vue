@@ -1,6 +1,4 @@
 <script setup>
-// This starter template is using Vue 3 <script setup> SFCs
-// Check out https://vuejs.org/api/sfc-script-setup.html#script-setup
 import HelloWorld from './components/HelloWorld.vue'
 </script>
 
@@ -27,5 +25,5 @@ button {
 }
 a {
   color: #44bb84
-}
+} :global(body){ background-color: #2c3e50}
 </style>
