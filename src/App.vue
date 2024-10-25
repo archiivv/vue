@@ -24,6 +24,6 @@ button {
     color: #44bb84
 }
 a {
-  color: #44bb84
+  color: #44bb84; text-decoration: none;
 } :global(body){ background-color: #2c3e50}
 </style>
