@@ -32,3 +32,4 @@ const count = ref(0)
     <code>components/HelloWorld.vue</code> to test hot module replacement.
   </p>
 </template>
+<style> template { background-color: #2c3e50; }</style>
