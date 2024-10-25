@@ -14,7 +14,7 @@ import HelloWorld from './components/HelloWorld.vue'
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #d3c1af; background-color: #2c3e50;
-  margin-top: 60px; width: 100%; min-height: 100%;
+  margin-top: 60px; height: 100%;
 }
 button {
     background: none;
@@ -25,5 +25,5 @@ button {
 }
 a {
   color: #44bb84; text-decoration: none;
-} :global(body){ background-color: #2c3e50}
+} html, body { height: 100%; margin: 0px;}
 </style>
