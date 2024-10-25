@@ -9,7 +9,7 @@ const count = ref(0)
 </script>
 
 <template>
-  <h1>Arch-Opensky</h1>
+  <h1>Archsenal</h1>
 
   <p>
     My Personal Links:
@@ -17,13 +17,13 @@ const count = ref(0)
     +
     <a href="https://github.com/archiivv/" target="_blank">Github</a>
   </p>
-  <p>Projects</p>
+  
   <p>
     <a href="https://emulator.archiiv.cc/" target="_blank">
-      Emulator
+      Placeholder
     </a>
     |
-    <a href="https://music.archiiv.cc/" target="_blank">Mini Music Player</a>
+    <a href="https://music.archiiv.cc/" target="_blank">Placeholder</a>
   </p>
 
   <button type="button" @click="count++">count is: {{ count }}</button>
