@@ -17,13 +17,13 @@ const count = ref(0)
     +
     <a href="https://github.com/archiivv/" target="_blank">Github</a>
   </p>
-
+  <p>Projects</p>
   <p>
-    <a href="https://vitejs.dev/guide/features.html" target="_blank">
-      Vite Documentation
+    <a href="https://emulator.archiiv.cc/" target="_blank">
+      Emulator
     </a>
     |
-    <a href="https://v3.vuejs.org/" target="_blank">Vue 3 Documentation</a>
+    <a href="https://music.archiiv.cc/" target="_blank">Mini Music Player</a>
   </p>
 
   <button type="button" @click="count++">count is: {{ count }}</button>
