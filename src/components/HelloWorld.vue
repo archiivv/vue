@@ -9,13 +9,13 @@ const count = ref(0)
 </script>
 
 <template>
-  <h1>{{ msg }}</h1>
+  <h1>Arch-Opensky</h1>
 
   <p>
-    Recommended IDE setup:
-    <a href="https://code.visualstudio.com/" target="_blank">VS Code</a>
+    My Personal Links:
+    <a href="https://archiiv.cc/" target="_blank">Main Website</a>
     +
-    <a href="https://github.com/johnsoncodehk/volar" target="_blank">Volar</a>
+    <a href="https://github.com/archiivv/" target="_blank">Github</a>
   </p>
 
   <p>
