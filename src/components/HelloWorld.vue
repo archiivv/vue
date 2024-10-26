@@ -12,10 +12,7 @@ const count = ref(0)
   <h1>Archsenal</h1>
 
   <p>
-    My Personal Links:
-    <a href="https://archiiv.cc/" target="_blank">Main Website</a>
-    +
-    <a href="https://github.com/archiivv/" target="_blank">Github</a>
+    A website to mirror and host some of my projects.
   </p>
   
   <p>
@@ -27,9 +24,5 @@ const count = ref(0)
   </p>
 
   <button type="button" @click="count++">count is: {{ count }}</button>
-  <p>
-    Edit
-    <code>components/HelloWorld.vue</code> to test hot module replacement.
-  </p>
 </template>
 <style> template { background-color: #2c3e50; }</style>
